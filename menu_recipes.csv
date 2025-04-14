@@ -1,0 +1,61 @@
+menu_item,ingredient,quantity_required_per_item
+Burger,Sauce,117
+Burger,Lettuce,57
+Burger,Milk,33
+Burger,Tomato,191
+Burger,Rice,34
+Pizza,Beef,61
+Pizza,Sauce,93
+Pizza,Rice,194
+Pasta,Cheese,95
+Pasta,Rice,72
+Pasta,Lettuce,158
+Pasta,Pizza Dough,28
+Salad,Rice,192
+Salad,Potato,163
+Salad,Tomato,77
+Salad,Eggs,185
+Tacos,Chicken,197
+Tacos,Milk,190
+Tacos,Sauce,32
+Tacos,Pizza Dough,117
+Tacos,Beef,119
+Fried Chicken,Sauce,23
+Fried Chicken,Pasta,84
+Fried Chicken,Bread,71
+Fried Chicken,Milk,178
+Fried Chicken,Lettuce,133
+Grilled Sandwich,Fish,185
+Grilled Sandwich,Pasta,114
+Grilled Sandwich,Pizza Dough,170
+Fries,Sauce,95
+Fries,Pizza Dough,134
+Fries,Chicken,65
+Soup,Cheese,151
+Soup,Fish,50
+Smoothie,Lettuce,53
+Smoothie,Tortilla,61
+Smoothie,Beef,169
+Smoothie,Milk,85
+Smoothie,Sauce,21
+Ice Cream,Potato,59
+Ice Cream,Pizza Dough,102
+Ice Cream,Cheese,172
+Ice Cream,Lettuce,33
+Steak,Potato,111
+Steak,Sauce,38
+Steak,Eggs,101
+Steak,Milk,154
+Sushi,Cheese,149
+Sushi,Milk,60
+Sushi,Tomato,126
+Burrito,Tomato,104
+Burrito,Bread,104
+Burrito,Chicken,112
+Burrito,Sauce,95
+Burrito,Pasta,75
+Veg Wrap,Milk,49
+Veg Wrap,Rice,191
+Veg Wrap,Sauce,108
+Veg Wrap,Pasta,134
+Veg Wrap,Lettuce,81

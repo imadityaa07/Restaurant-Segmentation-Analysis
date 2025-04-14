@@ -1,0 +1,16 @@
+ingredient,stock_level,unit,reorder_level,expiration_date,waste_quantity
+Lettuce,2171,grams,274,2025-04-20,36
+Tomato,3060,grams,467,2025-04-11,187
+Cheese,3329,grams,304,2025-04-05,194
+Chicken,3535,grams,363,2025-04-18,27
+Beef,3114,grams,223,2025-04-15,31
+Bread,2691,pieces,330,2025-04-08,36
+Tortilla,1293,pieces,125,2025-04-10,98
+Potato,3925,grams,227,2025-04-28,40
+Milk,3182,ml,395,2025-04-24,80
+Eggs,2055,pieces,490,2025-04-06,127
+Pasta,4716,grams,339,2025-04-16,78
+Pizza Dough,4574,grams,111,2025-04-03,100
+Sauce,4640,ml,334,2025-04-08,55
+Rice,3390,grams,124,2025-04-02,72
+Fish,4554,grams,405,2025-04-29,167
